@@ -1,0 +1,17 @@
+{
+    "vscode-neovim.neovimExecutablePaths.win32": "C:\\Program Files\\nvim\\bin\\nvim.exe",
+    "editor.scrollBeyondLastLine": false,
+    "editor.tabSize": 2,
+    "workbench.colorTheme": "One Dark Pro Darker", //install via extensions plugin
+    "oneDarkPro.vivid": true,
+    "editor.fontFamily": "'JetBrains Mono', monospace", //install font on website
+    "editor.fontSize": 13,
+    "editor.lineHeight": 22, 
+    "workbench.colorCustomizations": {
+        "statusBar.background": "#00a1e4",
+        "statusBar.foreground": "#fff",
+        "tab.inactiveBackground": "#1d1e1f",
+        "tab.border": "#23272e",
+        "tab.activeBorder": "#fffaff",
+    }
+}
